@@ -1,0 +1,14 @@
+# 09_(掌握)继承-借用构造函数实现方案
+
+> ``
+
+
+|本期版本|上期版本
+|:---:|:---:
+`Fri Jan 20 21:56:15 CST 2023` | -
+
+
+```javascript
+Function.prototype.hycal = function(){
+}
+```
