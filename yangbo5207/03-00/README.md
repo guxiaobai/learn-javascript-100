@@ -8,3 +8,8 @@
 ## 自执行函数
 
 * 我们常常会利用自执行函数来模拟块级作用域
+
+
+## Ref
+
+* <https://stackoverflow.com/questions/14160211/why-isnt-tostring-equivalent-to-window-tostring>

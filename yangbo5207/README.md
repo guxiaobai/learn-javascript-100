@@ -1,6 +1,5 @@
 # JavaScript 核心进阶 - 这波能反杀
 
-* <https://stackoverflow.com/questions/14160211/why-isnt-tostring-equivalent-to-window-tostring>
 
 > `订阅:¥99`
 

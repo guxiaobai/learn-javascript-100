@@ -1,6 +1,6 @@
 # 02_(掌握)Promise-对象方法-then方法
 
-> `2:13:10`
+> `25:10`
 
 
 |本期版本|上期版本
@@ -15,9 +15,13 @@
 
 ### then 方法的回调函数可以有返回值
 
-* 返回一个普通的值，
+* 返回一个普通的值，那么这个普通的值被作为一个新的Promise的 `resolve`的值
 
-```
+
+```javascript
 promise.thne(res=>{
-	return 111
-}).the
+	return {name: 'guxiaobai'}
+	// return undefined
+}).then(res=>{
+	console.log(res.name)
+})
