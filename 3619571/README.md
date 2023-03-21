@@ -1,5 +1,10 @@
 # 深入JavaScript高级语法-coderwhy大神新课 - 王红元
 
+
+## 25.异常处理-CommonJS模块化解析
+
+* [04_模块化-JavaScript模块化的历史](./25-04)
+
 ## Ref
 
 * <https://ke.qq.com/course/3619571>
