@@ -22,6 +22,10 @@
 * [**09_(掌握)模块化-ESModule的默认导出**](./26-09)
 * [**10_模块化-ESModule的import函数**](./26-10)
 
+## 27.ESModule和包管理工具一
+
+* 01_(理解)模块化-ESModule解析的整个流程
+
 ## Ref
 
 * <https://ke.qq.com/course/3619571>
