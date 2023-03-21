@@ -9,6 +9,10 @@
 * [07_模块化-Node实现commonjs的原理](./25-07)
 * [**08_(掌握)模块化-exports的作用和原理**](./25-08)
 
+## 26.AMD-CMD-ESModule模块化
+
+* [**01_模块化-commonjs中require细节**](./26-01)
+
 ## Ref
 
 * <https://ke.qq.com/course/3619571>
