@@ -4,7 +4,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Thu Mar 23 00:30:49 CST 2023` | -
+`Fri Mar 24 11:52:36 CST 2023` | -
 
 
 ### 退出不需要登陆
@@ -28,3 +28,13 @@
 * [为什么cookie在关闭当前页面后就失效了](https://blog.csdn.net/qq_38741963/article/details/94011312)
 * [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.cn/post/6844904034181070861)
 * [如何安全储存JWT之Cookie与Web Storage](https://juejin.cn/post/6844903986466652173)
+
+> * <https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie>
+> * <https://developer.mozilla.org/zh-CN/docs/Web/API/Document/cookie>
+
+```javascript
+const cookieValue = document.cookie
+  .split("; ")
+  .find((row) => row.startsWith("test2="))
+  ?.split("=")[1];
+```
