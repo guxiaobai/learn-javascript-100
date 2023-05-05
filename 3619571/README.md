@@ -1,5 +1,11 @@
 # 深入JavaScript高级语法-coderwhy大神新课 - 王红元
 
+## 19.响应式原理实现和Promise(一)
+
+* [05_(掌握)Promise-异步请求的处理方案](./19-05)
+* [06_Promise-Promise基本使用和重构](./19-06)
+* [07_Promise-Promise的三种状态](./19-07)
+* [08_(掌握)Promise的resolve方法参数](./19-08)
 
 ## 25.异常处理-CommonJS模块化解析
 
