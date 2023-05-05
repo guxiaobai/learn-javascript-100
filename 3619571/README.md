@@ -7,6 +7,17 @@
 * [07_Promise-Promise的三种状态](./19-07)
 * [08_(掌握)Promise的resolve方法参数](./19-08)
 
+
+## 20.Promise的使用和手写Promise
+
+* [01_(了解)上节内容的回顾](./20-01)
+* **[02_(掌握)Promise-对象方法-then方法](./20-02)**
+* [03_Promise-对象方法-catch方法](./20-03)
+* [04_Promise-对象方法-finally方法](./20-04)
+* [05_Promise-类方法-resolve-reject](./20-05)
+* [06_Promise-类方法-all-allSettled](./20-06)
+* [07_Promise-类方法-race-any](./20-07)
+
 ## 25.异常处理-CommonJS模块化解析
 
 * [04_模块化-JavaScript模块化的历史](./25-04)
